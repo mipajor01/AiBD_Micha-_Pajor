@@ -1,0 +1,14 @@
+,id,rok,miesiac,nazwa_zmiennych,dzien_1,dzien_2,dzien_3,dzien_4,dzien_5,dzien_6,dzien_7,dzien_8,dzien_9,dzien_10,dzien_11,dzien_12,dzien_13,dzien_14,dzien_15,dzien_16,dzien_17,dzien_18,dzien_19,dzien_20,dzien_21,dzien_22,dzien_23,dzien_24,dzien_25,dzien_26,dzien_27,dzien_28,dzien_29,dzien_30,dzien_31
+0,MX000017004,2010,08,TMAX,None,None,None,None,296,None,None,290,None,None,None,None,298,None,None,None,None,None,None,None,None,None,264,None,297,None,None,None,280,None,254
+1,MX000017004,2010,08,TMIN,None,None,None,None,158,None,None,173,None,None,None,None,165,None,None,None,None,None,None,None,None,None,150,None,156,None,None,None,153,None,154
+2,MX000017004,2010,08,PRCP,None,None,None,None,38,5,None,239,0,180,None,168,168,185,0,None,132,193,None,117,51,145,0,0,0,432,None,64,188,0,0
+3,MX000017004,2010,09,PRCP,185,56,13,175,0,277,0,345,391,353,23,0,None,119,0,None,48,10,0,361,0,0,15,147,18,0,0,0,0,0,None
+4,MX000017004,2010,10,TMAX,None,None,None,None,270,None,281,None,None,None,None,None,None,295,287,None,None,None,None,None,None,None,None,None,None,None,None,312,None,None,None
+5,MX000017004,2010,10,TMIN,None,None,None,None,140,None,129,None,None,None,None,None,None,130,105,None,None,None,None,None,None,None,None,None,None,None,None,150,None,None,None
+6,MX000017004,2010,10,PRCP,0,0,None,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,None,None,0,0,0,0,0,0
+7,MX000017004,2010,11,TMAX,None,313,None,272,263,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,281,277,None,None,None,None
+8,MX000017004,2010,11,TMIN,None,163,None,120,79,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,121,142,None,None,None,None
+9,MX000017004,2010,11,PRCP,0,0,None,0,0,0,None,0,0,0,0,0,0,None,None,0,0,0,0,None,None,0,0,0,0,0,0,None,None,0,None
+10,MX000017004,2010,12,TMAX,299,None,None,None,None,278,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+11,MX000017004,2010,12,TMIN,138,None,None,None,None,105,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+12,MX000017004,2010,12,PRCP,0,0,0,None,None,0,0,0,0,0,0,None,None,0,0,0,0,None,0,None,0,None,0,0,None,None,None,0,0,0,0
