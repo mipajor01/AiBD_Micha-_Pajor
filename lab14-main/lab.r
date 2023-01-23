@@ -1,4 +1,5 @@
 library(magrittr)
+#Michał Pajor
 
 lista <- 1:10
 # print(list)
